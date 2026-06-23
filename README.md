@@ -41,6 +41,16 @@ Smart Verify is an AI-powered admission management system designed to simplify a
 
 Developed as a major academic project to demonstrate the practical application of Artificial Intelligence, TypeScript, Firebase, and modern web technologies in educational admission systems.
 
+## 👨‍💻 Project Team
+
+| Name                       | Role                          |
+| -------------------------- | ----------------------------- |
+| **Shaik Sabiha Sultana**   | **Team Leader**               |
+| **Shaik Ayesha Farheen**   | Team Member                   |
+| **Sesamshetty Anusha**     | Team Member                   |
+| **Syed Fayaz**             | Team Member                   |
+| **Shaik Mohammad Thousif** | Team Member, Junior Developer |
+
 ---
 
 **Smart Verify – Transforming Student Admissions Through AI and Automation.**
