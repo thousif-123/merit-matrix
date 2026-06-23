@@ -49,7 +49,7 @@ Developed as a major academic project to demonstrate the practical application o
 | **Shaik Ayesha Farheen**   | Team Member                   |
 | **Sesamshetty Anusha**     | Team Member                   |
 | **Syed Fayaz**             | Team Member                   |
-| **Shaik Mohammad Thousif** | Team Member, Junior Developer |
+| **Shaik Mohammad Thousif** | Team Member,                   |
 
 ---
 
